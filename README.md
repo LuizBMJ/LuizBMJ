@@ -8,7 +8,7 @@
 ---
 
 ```text
-PHP · Laravel · JavaScript · React · SQL · MySQL · Tailwind · Python · Git · HTML · CSS
+PHP · Laravel · JavaScript · React · Python · SQL · MySQL · Git · Tailwind · HTML · CSS
 ```
 
 ---
@@ -17,7 +17,7 @@ PHP · Laravel · JavaScript · React · SQL · MySQL · Tailwind · Python · G
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,js,react,python,mysql,tailwind,git,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=php,laravel,js,react,python,mysql,git,tailwind,html,css&theme=dark" />
 
 </div>
 
