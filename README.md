@@ -3,8 +3,6 @@
 # Jorge Luiz
 ### Estudante de Engenharia de Software · Desenvolvedor Full Stack
 
-</div>
-
 ---
 
 ```text
@@ -15,28 +13,19 @@ PHP · Laravel · JavaScript · React · Python · SQL · MySQL · Git · Tailwi
 
 ### Tecnologias
 
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=php,laravel,js,react,python,mysql,git,tailwind,html,css&theme=dark" />
-
-</div>
 
 ---
 
 ### Streak
 
-<div align="center">
-
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=LuizBMJ%20&theme=dark&hide_border=true&locale=pt_BR&hide_longest_streak=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=LuizBMJ&theme=dark&hide_border=true&locale=pt_BR&hide_longest_streak=true" alt="GitHub Streak" />
 </a>
 
-</div>
 ---
 
 ### Contato
-
-<div align="center">
 
 <a href="https://www.linkedin.com/in/jorge-luiz-bevilacqua-mercer-8090b63a4">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
