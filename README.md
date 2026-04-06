@@ -26,7 +26,7 @@ PHP · Laravel · JavaScript · React · Python · SQL · MySQL · Git · Tailwi
 ### Streak
 
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=LuizBMJ&theme=dark&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=LuizBMJ%20&theme=dark&hide_border=true&locale=pt_BR&hide_longest_streak=true" alt="GitHub Streak" />
 </a>
 
 ---
