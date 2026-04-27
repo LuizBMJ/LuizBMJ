@@ -6,14 +6,14 @@
 ---
 
 ```text
-PHP · Laravel · JavaScript · React · Vue.js · Python · SQL · MySQL · Git · Tailwind · HTML · CSS
+PHP · Laravel · JavaScript · TypeScript · React · Vue.js · Python · SQL · MySQL · Git · Tailwind · HTML · CSS
 ```
 
 ---
 
 ### Tecnologias
 
-<img src="https://skillicons.dev/icons?i=php,laravel,js,react,vue,python,mysql,git,tailwind,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,vue,python,mysql,git,tailwind,html,css&theme=dark" />
 
 ---
 
