@@ -10,11 +10,7 @@
 
 <img 
 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Estudante+de+Engenharia+de+Software;PHP+%7C+Laravel+%7C+TypeScript+%7C+React;Sempre+aprendendo+novas+tecnologias" 
-
-    alt="Typing SVG" 
-
-/>
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Estudante+de+Engenharia+de+Software;PHP+%7C+Laravel+%7C+TypeScript+%7C+React;Sempre+aprendendo+novas+tecnologias" alt="Typing SVG" />
 
 ---
 
@@ -38,7 +34,7 @@
 
 ### GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizBMJ&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&locale=pt-br" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizBMJ&show_icons=true&theme=github_dark&hide_border=true&include_all commits=true&locale=pt-br" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBMJ&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" />
 
