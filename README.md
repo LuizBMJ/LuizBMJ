@@ -2,26 +2,24 @@
 
 # Jorge Luiz
 
-<a href="https://www.linkedin.com/in/jorge-luiz-bevilacqua-mercer-8090b63a4">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jorge-luiz-bevilacqua-mercer-8090b63a4">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-&nbsp;
+  <a href="mailto:luiz.bevilacquam@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<a href="mailto:luiz.bevilacquam@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="https://github.com/LuizBMJ">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-&nbsp;
-
-<a href="https://github.com/LuizBMJ">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
+<br>
 
 <img 
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Desenvolvedor+Full+Stack;Estudante+de+Engenharia+de+Software;PHP+%7C+Laravel+%7C+TypeScript+%7C+React;Construindo+projetos+e+evoluindo+todos+os+dias" 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Desenvolvedor+Full+Stack;Estudante+de+Engenharia+de+Software;PHP+%7C+Laravel+%7C+TypeScript+%7C+React;Construindo+projetos+e+evoluindo+todos+os+dias" 
 />
 
 ---
@@ -30,17 +28,20 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,vue,python,mysql,git,github,tailwind,html,css,vscode&theme=dark"/>
+<img 
+  src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,vue,python,mysql,docker,git,github,tailwind,html,css&theme=dark"
+/>
 
 ---
 
 ## 💻 Sobre Mim
 
-✨ Desenvolvedor Full Stack focado em aplicações web modernas  
-📚 Estudante de Engenharia de Software  
-🚀 Estudando APIs REST, TypeScript e arquitetura backend  
-🎯 Buscando minha primeira oportunidade na área de desenvolvimento  
-⚡ Apaixonado por tecnologia, programação e evolução constante  
+🎓 Estudante de Engenharia de Software com foco em desenvolvimento Full Stack  
+🚀 Desenvolvendo aplicações web modernas utilizando PHP, Laravel, TypeScript e React  
+📚 Estudando arquitetura backend, APIs REST, banco de dados e boas práticas de desenvolvimento  
+🛠️ Experiência prática com criação de projetos pessoais, versionamento com Git/GitHub e Docker  
+🎯 Em busca da primeira oportunidade como Desenvolvedor Júnior ou Estagiário na área de tecnologia  
+⚡ Perfil proativo, com aprendizado rápido e evolução constante em programação  
 
 ---
 
