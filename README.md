@@ -8,9 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuizBMJ)
 
-<img 
-
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Estudante+de+Engenharia+de+Software;PHP+%7C+Laravel+%7C+TypeScript+%7C+React;Sempre+aprendendo+novas+tecnologias" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Estudante+de+Engenharia+de+Software;PHP+%7C+Laravel+%7C+TypeScript+%7C+React;Sempre+aprendendo+novas+tecnologias" alt="Typing SVG" />
 
 ---
 
