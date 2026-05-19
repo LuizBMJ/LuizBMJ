@@ -29,7 +29,7 @@
 <br>
 
 <img 
-  src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,vue,python,mysql,pgsql,docker,git,github,tailwind,html,css&theme=dark"
+  src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,vue,python,mysql,postgresql,docker,git,github,tailwind,html,css&theme=dark"
 />
 
 ---
