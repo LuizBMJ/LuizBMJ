@@ -19,31 +19,32 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Desenvolvedor+Full+Stack+em+evolu%C3%A7%C3%A3o+constante;PHP+%7C+Laravel+%7C+TypeScript+%7C+React;Construindo+projetos+reais+todos+os+dias;Apaixonado+por+c%C3%B3digo+limpo+e+boas+pr%C3%A1ticas" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+in+constant+growth;PHP+%7C+Laravel+%7C+TypeScript+%7C+React;Building+real+projects+every+day;Passionate+about+clean+code+%26+best+practices" />
 
 </div>
 
 ---
 
-## 👤 Sobre Mim
+## 👤 About Me
 
 ```yaml
-nome:      Jorge Luiz Bevilacqua Mercer
-foco:      Full Stack Development
-formação:  Engenharia de Software
-status:    Aberto a oportunidades Júnior / Estágio
+name:      Jorge Luiz Bevilacqua Mercer
+focus:     Full Stack Development
+degree:    Software Engineering
+location:  Brazil 🇧🇷 — open to local & remote international opportunities
+status:    Looking for Junior Developer / Internship roles
 ```
 
-- 🎓 Estudante de **Engenharia de Software** com foco em desenvolvimento Full Stack
-- 🚀 Construindo aplicações web modernas com **PHP, Laravel, TypeScript e React**
-- 📐 Estudando arquitetura de sistemas, APIs REST, bancos de dados relacionais e boas práticas
-- 🐳 Experiência prática com projetos pessoais, **Git/GitHub** e **Docker**
-- 🎯 Em busca da **primeira oportunidade** como Desenvolvedor Júnior ou Estagiário em tecnologia
-- ⚡ Perfil proativo, com aprendizado acelerado e evolução contínua
+- 🎓 **Software Engineering** student focused on Full Stack development
+- 🚀 Building modern web applications with **PHP, Laravel, TypeScript and React**
+- 📐 Studying systems architecture, REST APIs, relational databases and development best practices
+- 🐳 Hands-on experience with personal projects, **Git/GitHub** and **Docker**
+- 🎯 Looking for my **first opportunity** as a Junior Developer or Intern in tech
+- ⚡ Proactive profile with fast learning curve and continuous improvement mindset
 
 ---
 
-## 🛠️ Stack de Tecnologias
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -53,7 +54,7 @@ status:    Aberto a oportunidades Júnior / Estágio
 ### 🖥️ Front-end
 <img src="https://skillicons.dev/icons?i=js,ts,react,vue,html,css,tailwind&theme=dark"/>
 
-### 🗄️ Banco de Dados & DevOps
+### 🗄️ Database & DevOps
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github&theme=dark"/>
 
 </div>
@@ -64,7 +65,7 @@ status:    Aberto a oportunidades Júnior / Estágio
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=LuizBMJ&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR" />
+<img src="https://streak-stats.demolab.com?user=LuizBMJ&theme=github-dark-blue&hide_border=true&locale=en" />
 
 <br/><br/>
 
@@ -82,7 +83,7 @@ status:    Aberto a oportunidades Júnior / Estágio
 
 <div align="center">
 
-> *"Todo expert já foi um dia um iniciante. A diferença está em nunca parar de aprender."*
+> *"Every expert was once a beginner. The difference is never stopping to learn."*
 
 <br/>
 
