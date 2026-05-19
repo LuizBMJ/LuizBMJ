@@ -21,7 +21,7 @@
 <br><br>
 
 <img 
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Desenvolvedor+Full+Stack;Estudante+de+Engenharia+de+Software;PHP+%7C+Laravel+%7C+TypeScript+%7C+React;Construindo+projetos+e+evoluindo+todos+os+dias" 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=80&lines=Desenvolvedor+Full+Stack;Estudante+de+Engenharia+de+Software;PHP+%7C+Laravel+%7C+TypeScript+%7C+React;Construindo+projetos+e+evoluindo+todos+os+dias" 
 />
 
 ---
@@ -30,7 +30,7 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,vue,python,mysql,git,github,tailwind,html,css,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,vue,python,mysql,postgres,git,github,tailwind,html,css,vscode,docker,nodejs&theme=dark"/>
 
 ---
 
@@ -49,43 +49,20 @@
 <br>
 
 <img 
-  height="180em" 
+  width="49%"
   src="https://github-readme-stats.vercel.app/api?username=LuizBMJ&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
 />
 
 <img 
-  height="180em" 
+  width="49%"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBMJ&layout=compact&theme=tokyonight&hide_border=true"
-/>
-
----
-
-## 🔥 GitHub Streak
-
-<br>
-
-<img 
-  src="https://streak-stats.demolab.com?user=LuizBMJ&theme=github-dark-blue&hide_border=true"
-/>
-
----
-
-## 📈 Atividade no GitHub
-
-<br>
-
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuizBMJ&theme=github_dark"
 />
 
 <br><br>
 
 <img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuizBMJ&theme=github_dark"
-/>
-
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuizBMJ&theme=github_dark"
+  width="98%"
+  src="https://streak-stats.demolab.com?user=LuizBMJ&theme=tokyonight&hide_border=true"
 />
 
 ---
