@@ -25,7 +25,7 @@
 
 ---
 
-## 👤 About Me
+##  About Me
 
 ```yaml
 name:      Jorge Luiz Bevilacqua Mercer
@@ -35,33 +35,33 @@ location:  Brazil 🇧🇷 — open to local & remote international opportunitie
 status:    Looking for Junior Developer / Internship roles
 ```
 
-- 🎓 **Software Engineering** student focused on Full Stack development
-- 🚀 Building modern web applications with **PHP, Laravel, TypeScript and React**
-- 📐 Studying systems architecture, REST APIs, relational databases and development best practices
-- 🐳 Hands-on experience with personal projects, **Git/GitHub** and **Docker**
-- 🎯 Looking for my **first opportunity** as a Junior Developer or Intern in tech
-- ⚡ Proactive profile with fast learning curve and continuous improvement mindset
+-  ** Software Engineering** student focused on Full Stack development
+- Building modern web applications with **PHP, Laravel, TypeScript and React**
+- Studying systems architecture, REST APIs, relational databases and development best practices
+- Hands-on experience with personal projects, **Git/GitHub** and **Docker**
+- Looking for my **first opportunity** as a Junior Developer or Intern in tech
+- Proactive profile with fast learning curve and continuous improvement mindset
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 🔙 Back-end
+### Back-end
 <img src="https://skillicons.dev/icons?i=php,laravel,python&theme=dark"/>
 
-### 🖥️ Front-end
+### Front-end
 <img src="https://skillicons.dev/icons?i=js,ts,react,vue,html,css,tailwind&theme=dark"/>
 
-### 🗄️ Database & DevOps
+### Database & DevOps
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github&theme=dark"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
