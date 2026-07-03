@@ -55,7 +55,7 @@ status:    Looking for Junior Developer / Internship roles
 <img src="https://skillicons.dev/icons?i=js,ts,react,vue,html,css,tailwind&theme=dark"/>
 
 ### Database & DevOps
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,wordpress&theme=dark"/>
 
 </div>
 
