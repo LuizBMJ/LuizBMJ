@@ -35,7 +35,7 @@ location:  Brazil 🇧🇷 — open to local & remote international opportunitie
 status:    Looking for Junior Developer / Internship roles
 ```
 
--  ** Software Engineering** student focused on Full Stack development
+-  **Software Engineering** student focused on Full Stack development
 - Building modern web applications with **PHP, Laravel, TypeScript and React**
 - Studying systems architecture, REST APIs, relational databases and development best practices
 - Hands-on experience with personal projects, **Git/GitHub** and **Docker**
