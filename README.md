@@ -31,15 +31,15 @@
 name:      Jorge Luiz Bevilacqua Mercer
 focus:     Full Stack Development
 degree:    Software Engineering
-location:  Brazil 🇧🇷 — open to local & remote international opportunities
-status:    Looking for Junior Developer / Internship roles
+current:   Full-Stack Developer @ G7K Group
+location:  Brazil 🇧🇷
 ```
 
 -  **Software Engineering** student focused on Full Stack development
 - Building modern web applications with **PHP, Laravel, TypeScript and React**
 - Studying systems architecture, REST APIs, relational databases and development best practices
 - Hands-on experience with personal projects, **Git/GitHub** and **Docker**
-- Looking for my **first opportunity** as a Junior Developer or Intern in tech
+- Currently developing websites with **WordPress** for **G7K Group** as a Full-Stack Programmer
 - Proactive profile with fast learning curve and continuous improvement mindset
 
 ---
