@@ -31,7 +31,7 @@
 name:      Jorge Luiz Bevilacqua Mercer
 focus:     Full Stack Development
 degree:    Software Engineering
-current:   Full-Stack Developer @ G7K Group
+current:   Freelancer open for opportunities
 location:  Brazil 🇧🇷
 ```
 
@@ -39,7 +39,7 @@ location:  Brazil 🇧🇷
 - Building modern web applications with **PHP, Laravel, TypeScript and React**
 - Studying systems architecture, REST APIs, relational databases and development best practices
 - Hands-on experience with personal projects, **Git/GitHub** and **Docker**
-- Currently developing websites with **WordPress** for **G7K Group** as a Full-Stack Programmer
+- Currently developing websites as a Freelancer
 - Proactive profile with fast learning curve and continuous improvement mindset
 
 ---
